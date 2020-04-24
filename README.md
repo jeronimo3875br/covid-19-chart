@@ -1,7 +1,7 @@
 <h1>CoronaInfo</h1>
 
 
-![add image](https://github.com/jeronimo3875br/covid-19-chart/blob/master/image.png)
+![add image](https://github.com/jeronimo3875br/covid-19-chart/blob/master/images.jpeg)
 
 
 <h3>CoronaInfo is a simple program that searches for information about Covid-19 and shows it in a graph for better interpretation.</br></h3>
