@@ -1,15 +1,11 @@
-<h1>CoronaInfo</h1>
+# Cryptocurrencies-info
 
 
-![add image](https://github.com/jeronimo3875br/covid-19-chart/blob/master/images.jpeg)
+![add image](https://github.com/jeronimo3875br/cryptocurrencies-info/blob/master/Screenshot_20200622-005641.jpg)
 
 
-<h3>CoronaInfo is a simple program that searches for information about Covid-19 and shows it in a graph for better interpretation.</br></h3>
-<h3>I am not an expert or fan of the technologies used in this program, but it works and can serve both as the objective created, as for study.</h3>
-<a href="https://api.covid19api.com/summary">API used in this program.</a>
+##### Script developed in python using Matplotlib, about cryptocurrencies. The script, takes data from an API in real time and generates the graph showing the price and a comparison between the currencies based on in the latest market purchases.
 
-<h1>How to run </h1>
 
-<code>cd covid-19-chart</code>
 
-<code>python3 corona_info.py</code>
+#### API used: <code>https://www.mercadobitcoin.net/api/BTC/ticker</code>
