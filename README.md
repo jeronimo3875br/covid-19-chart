@@ -6,7 +6,7 @@ How to run?
 
 With python installed just run the file, with the command:
 
-```bash 
+```python 
 
 #Run the file 
 python criptomoedas.py
