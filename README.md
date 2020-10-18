@@ -6,11 +6,11 @@ How to run?
 
 With python installed just run the file, with the command:
 
-    ```bash 
+```bash 
 
-        #Run the file 
-        python criptomoedas.py
+#Run the file 
+python criptomoedas.py
 
-    ```
+```
 
 #### API used: <a href="https://www.mercadobitcoin.net/api/BTC/ticker">https://www.mercadobitcoin.net/api/BTC/ticker</a>
