@@ -11,7 +11,6 @@ class Criptomoedas():
 	
 	def __init__(self, url):
 		self.url = url
-		pass
 	
 	def getValues(self):
 		
@@ -23,7 +22,6 @@ class Criptomoedas():
 		}
 		
 		self.createChart(data)
-		pass
 		
 	def createChart(self, data):
 		
@@ -50,7 +48,5 @@ class Criptomoedas():
 		plt.legend()
 		plt.show()
 		
-		pass
-
 generateChart = Criptomoedas("https://www.mercadobitcoin.net/api/{}/ticker")
 generateChart.getValues()
